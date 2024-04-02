@@ -34,9 +34,6 @@ def mock_json_data():
 def test1_creating_list_operations(capsys, mock_json_data):
     """
     Проверяем ОТКРЫТИЕ ВКЛАДА
-    :param capsys:
-    :param mock_json_data:
-    :return:
     """
     mock_json_data = [
         {
